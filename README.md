@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HireSense – Recruiter-Friendly Hiring Intelligence
 
 ## 🎯 Project Idea
@@ -36,3 +37,7 @@ HireSense solves this by:
 - Documented project vision and workflow in README.md  
 
 ---
+=======
+# HireSense
+AI-Assisted Resume Screening &amp; Job Match System using Java Spring Boot and React.
+>>>>>>> 98ac3c0e0d25b95b8fc3f42c8940dcc0e4672e19
